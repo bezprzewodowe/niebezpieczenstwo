@@ -22,6 +22,6 @@ if len(sys.argv) == 2:
     json_object = json.loads(r.text)
     for result in json_object['results']:
         if result['ssid'] == ssid:
-            print 'https://www.google.pl/maps/place/@' + result['trilat'] + ',' + result['trilong'] + ',17z'
+            print 'https://www.google.pl/maps?q=' + result['trilat'] + ',' + result['trilong']
 else:
     print('proszę podać w drugim argumencie nazwę sieci WiFi (SSID)')
