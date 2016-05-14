@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# WiGLE.net
+# WiGLE.net + Google Maps
 
 # (C) 2016 Adam Ziaja <adam@adamziaja.com> http://adamziaja.com
 
