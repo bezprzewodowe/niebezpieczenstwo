@@ -1,6 +1,6 @@
 #!/usr/bin/env python2
 
-# Written by Maciej Grela <enki@fsck.pl>, wigle.net and googlemaps query code from Adam Ziaja <adam@ziaja.com>
+# Written by Maciej Grela <enki@fsck.pl>, wigle.net and googlemaps query code from Adam Ziaja <adam@adamziaja.com>
 
 from __future__ import print_function
 
